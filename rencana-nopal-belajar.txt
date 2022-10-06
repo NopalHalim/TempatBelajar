@@ -3,3 +3,4 @@ Rencana belajar naufal
 2. Belajar Git dari awal
 3. Belajar Framework dari awal 
 4. Belajar Library dari awal
+5. Dan menjadi seorang developer 
