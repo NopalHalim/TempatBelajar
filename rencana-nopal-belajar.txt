@@ -1,0 +1,5 @@
+Rencana belajar naufal
+1. belajar Rest API
+2. Belajar Git
+3. Belajar Framework
+4. Belajar Library
