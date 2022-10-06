@@ -2,5 +2,8 @@ Rencana belajar naufal
 1. belajar Rest API dari awal
 2. Belajar Git dari awal
 3. Belajar Framework dari awal 
+  - Node js
+  - vue js
 4. Belajar Library dari awal
+  - React js
 5. Dan menjadi seorang developer 
