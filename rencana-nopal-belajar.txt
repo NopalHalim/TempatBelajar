@@ -1,6 +1,7 @@
 Rencana belajar naufal
-1. belajar Rest API dari awal
-2. Belajar Git dari awal
-3. Belajar Framework dari awal 
-4. Belajar Library dari awal
-5. Dan menjadi seorang developer 
+1. Belajar Git dari awal
+2. Belajar Framework dari awal 
+  - Angular js
+  - Next js
+3. Belajar Library dari awal
+4. Dan menjadi seorang developer 
