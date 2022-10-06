@@ -5,4 +5,5 @@ Rencana belajar naufal
   - Node js
   - vue js
 4. Belajar Library dari awal
+  - React js
 5. Dan menjadi seorang developer 
